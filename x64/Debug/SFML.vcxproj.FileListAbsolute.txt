@@ -1,0 +1,4 @@
+C:\Users\Maxim\Desktop\VS C++\SFML\x64\Debug\SFML.exe
+D:\VS C++\SFML\x64\Debug\SFML.exe
+C:\Users\Maxim\Desktop\ДЗ\ДЗ Прог\Курсач\SFML\x64\Debug\SFML.exe
+D:\ДЗ\3 Семестр\OOP\Курсач\SFML\x64\Debug\SFML.exe
